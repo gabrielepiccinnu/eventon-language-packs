@@ -1,0 +1,124 @@
+evcal_lang_1,gennaio
+evcal_lang_2,febbraio
+evcal_lang_3,marzo
+evcal_lang_4,aprile
+evcal_lang_5,maggio
+evcal_lang_6,giugno
+evcal_lang_7,luglio
+evcal_lang_8,agosto
+evcal_lang_9,settembre
+evcal_lang_10,ottobre
+evcal_lang_11,novembre
+evcal_lang_12,dicembre
+evo_lang_3Lm_1,gen
+evo_lang_3Lm_2,feb
+evo_lang_3Lm_3,mar
+evo_lang_3Lm_4,apr
+evo_lang_3Lm_5,mag
+evo_lang_3Lm_6,giu
+evo_lang_3Lm_7,lug
+evo_lang_3Lm_8,ago
+evo_lang_3Lm_9,set
+evo_lang_3Lm_10,ott
+evo_lang_3Lm_11,nov
+evo_lang_3Lm_12,dic
+evo_lang_1Lm_1,g
+evo_lang_1Lm_2,f
+evo_lang_1Lm_3,m
+evo_lang_1Lm_4,a
+evo_lang_1Lm_5,m
+evo_lang_1Lm_6,g
+evo_lang_1Lm_7,l
+evo_lang_1Lm_8,a
+evo_lang_1Lm_9,s
+evo_lang_1Lm_10,o
+evo_lang_1Lm_11,n
+evo_lang_1Lm_12,d
+evcal_lang_day1,lunedì
+evcal_lang_day2,martedì
+evcal_lang_day3,mercoledì
+evcal_lang_day4,giovedì
+evcal_lang_day5,venerdì
+evcal_lang_day6,sabato
+evcal_lang_day7,domenica
+evo_lang_3Ld_1,lun
+evo_lang_3Ld_2,mar
+evo_lang_3Ld_3,mer
+evo_lang_3Ld_4,gio
+evo_lang_3Ld_5,ven
+evo_lang_3Ld_6,sab
+evo_lang_3Ld_7,dom
+evo_lang_am,
+evo_lang_pm,
+evcal_lang_noeve,Nessun evento presente
+no-events-on-the-list-at-this-time,Nessun evento programmato nell'ora selezionata.
+evcal_lang_allday,Tutto il giorno
+evcal_lang_yrrnd,Tutto l'anno
+evcal_lang_mntlng,Tutto il mese
+evcal_lang_events,Eventi
+event,Evento
+evcal_lang_sme,Mostra più eventi
+evcal_evcard_evcancel,Evento Cancellato
+featured,In evidenza
+evo_lang_eventtags,Tag evento
+evo_lang_yes,SI
+evo_lang_no,NO
+evo_lang_more,LEGGI DI PIÙ
+evoSR_001,Cerca eventi...
+evoSR_001a,Ricerca eventi in calendario
+evoSR_002,Ricerca in corso...
+evoSR_003,Che cosa stai cercando?
+evoSR_004,Event(i) trovati
+download-all-events-as-ics-file,Scarica tutti gli eventi (formato ICS)
+evcal_lang_et1,Tipo Evento
+evcal_lang_et2,Tipo Evento 2
+evcal_lang_evloc,Area evento
+events-at-this-location,Eventi in questa area
+evcal_lang_evorg,Organizzatore Evento
+events-by-this-organizer,Eventi organizzati da questo organizzatore
+multi-data-type-1,Tipo Multi-Data 1
+multi-data-type-2,Tipo Multi-Data 2
+multi-data-type-3,Tipo Multi-Data 3
+evcal_lang_jumpmonths,Salta Mesi
+evcal_lang_jumpmonthsM,Salta Mesi: Mese
+evcal_lang_jumpmonthsY,Salta Mesi: Anno
+evcal_lang_sopt,Filtra Eventi
+evcal_lang_sort,Ordina per
+evcal_lang_sdate,Data
+evcal_lang_sposted,Pubblicazione
+evcal_lang_stitle,Titolo
+evcal_lang_all,Tutto
+evcal_lang_gototoday,Mese corrente
+evcal_lang_apply_filters,Applica Filtri
+past-&-future-events,Eventi passati ed in programma
+only-past-events,Solo eventi passati
+only-future-events,Solo prossimi eventi
+evcal_lang_location_name,Nome area
+evcal_lang_location,Località
+evcal_evcard_loc,Località evento
+evcalL_getdir_placeholder,Inserisci il tuo indirizzo
+evcalL_getdir_title,Clicca qui per ottenere indicazioni
+evcal_lang_time,Ora
+evcal_lang_repeats,Prossimi eventi programmati in questa serie
+evcal_lang_scolor,Colore
+evcal_lang_at,a
+evcal_evcard_details,Dettagli evento
+evcal_evcard_org,Organizzatore
+evcal_lang_close,Testo pulsante - Chiudi evento 
+evcal_lang_more,
+evcal_lang_less,
+evcal_evcard_tix1,Acquista biglietto con PayPal
+evcal_evcard_btn1,Acquista Ora
+evcal_evcard_tix2,Biglietti per questo evento
+evcal_evcard_btn2,Acquista Ora
+evcal_evcard_cap,Capacità evento
+evcal_evcard_learnmore,Scopri di più su questo evento
+evcal_evcard_learnmore2,Scopri di più
+login-required-to-see-the-information,Per vedere quest'informazione è richiesto l'accesso
+evcal_evcard_calncal,Calendario
+evcal_evcard_calgcal,GoogleCal
+evcal_evcard_addics,Aggiungi al tuo calendario
+evcal_evcard_addgcal,Aggiungo al tuo calendario Google
+login,
+you-must-login-to-see-this-event,
+this-is-a-repeating-event,
